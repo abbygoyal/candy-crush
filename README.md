@@ -1,8 +1,8 @@
-## PORTFOLIO
-self introduction portfolio!
+## Candy Crush
+Candy Crush using React, Redux Toolkit, Typescript and Tailwind CSS
 
 ## Live Project Link
-[Abhishek Portfolio Project](https://abhishek-goyal-portfolio.netlify.app/)
+[Candy Crush using React](https://candycrush-redux.netlify.app/)
 
 # How to fork and clone
 

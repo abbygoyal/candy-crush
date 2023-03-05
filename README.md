@@ -2,7 +2,7 @@
 Candy Crush using React, Redux Toolkit, Typescript and Tailwind CSS
 
 ## Live Project Link
-[Candy Crush using React](https://candycrush-redux.netlify.app/)
+[Candy Crush using React/Redux](https://candycrush-redux.netlify.app/)
 
 # How to fork and clone
 

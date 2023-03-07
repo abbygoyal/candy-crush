@@ -1,5 +1,5 @@
 ## Candy Crush
-Candy Crush using React, Redux Toolkit, Typescript and Tailwind CSS
+Candy Crush using React, Redux Toolkit, Typescript and Tailwind CSS.
 
 ## Live Project Link
 [Candy Crush using React/Redux](https://candycrush-redux.netlify.app/)
